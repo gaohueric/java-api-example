@@ -13,7 +13,5 @@ public class HashMapDemo  {
     public static void main(String[] args) {
         HashMap<String,String> map = new HashMap<String, String>();
         System.out.println("test");
-
-
     }
 }
